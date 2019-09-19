@@ -1,0 +1,55 @@
+
+
+
+#txtcontact{
+	
+	text-align:center;
+	font-family:arial;
+	font-size:1.4em;
+	
+	
+}
+
+
+.contactitre{
+
+	margin:0 auto;
+	width:240px;
+	display:block;
+	padding-left:57px;
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #000000;
+	color:black;
+	margin-bottom:40px;
+	
+}
+
+.contactsoustitre{
+	text-align:center;
+font-family: 'Pacifico', cursive;
+font-size:1.7em;
+
+margin-bottom:10px;
+
+}
+
+
+.contactsoustitre2{
+	text-align:center;
+font-family: 'Pacifico', cursive;
+font-size:1.7em;
+margin-top:40px;
+margin-bottom:10px;
+
+}
+
+
+#blockcontact{
+padding-bottom:100px;
+padding-top:90px;
+background-image:url(img/froisse.png);
+
+
+}

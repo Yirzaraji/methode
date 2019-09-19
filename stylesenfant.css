@@ -1,0 +1,97 @@
+.titreenfant{
+	background-color:white;
+	margin:0 auto;
+	width:360px;
+	
+	padding-bottom:10px;
+	display:block;
+	padding-left:37px;
+	
+	font-family: 'Pacifico', cursive;
+	font-size:2.5em;
+	border:4px solid #000000;
+	border-style:dashed;
+	margin-bottom:90px;
+	border-radius:5px;
+	-webkit-box-shadow: 0px -1px 8px 0px rgba(0,0,0,0.58);
+	-moz-box-shadow: 0px -1px 8px 0px rgba(0,0,0,0.58);
+	box-shadow: 0px -1px 8px 0px rgba(0,0,0,0.58);
+}
+
+
+.titreenfant p{
+font-family: 'Raleway' , sans-serif;
+font-size:0.5em;	
+
+}
+
+
+
+
+img.centrer{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+	
+}
+
+
+#pageenfant{
+	
+	background-image:url(img/school.png);
+	
+}
+
+#fond{
+	width:100%;
+	height:100%;
+	/* margin-bottom:90px; MARGE DESACTIVE FICHE TECH*/ 
+	padding-top:90px;
+	padding-bottom:50px;
+}
+
+
+
+
+
+#blockenfant2{
+
+padding-top:90px;
+background-image:url(img/arbre.png);	
+padding-bottom:90px;	
+background-color:#474747;
+color:white;
+font-family: 'Raleway' , sans-serif;
+	
+}
+
+#blocktxtenfant{
+
+width:400px;
+margin:0 auto;	
+	
+}
+
+
+#fichetech1{
+font-family: 'Raleway' , sans-serif;
+font-size:2.5em;
+text-align:center;
+margin-bottom:50px;	
+	color:white;
+}
+
+#soustitre1{
+	text-align:center;
+	font-size:1.3em;
+	
+	
+	
+}
+
+
+#blockenfant2 p{
+margin-bottom:30px;	
+margin-top:15px;	
+	
+}

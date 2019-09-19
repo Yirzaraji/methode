@@ -1,0 +1,607 @@
+
+
+
+.sousblockinter{
+	
+	width:600px;
+	margin:0 auto;
+	margin-top:90px;
+	font-family: 'Raleway' , sans-serif;
+	margin-bottom:90px;
+	text-align:justify;
+}
+
+
+.sousblockinter p{
+
+margin-top:30px;	
+	
+}
+
+
+.intertitre{
+	
+	
+	margin:0 auto;
+	width:580px;
+	display:block;
+	padding-left:37px;
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #000000;
+	color:black;
+	margin-bottom:90px;
+	
+}
+
+
+.exergue{
+	
+	font-family: 'Merienda One', cursive;
+	font-size:1.5em;
+	margin-bottom:40px;
+	
+}
+
+
+
+.intertitre2{
+	
+	text-align:center;
+	margin:0 auto;
+	width:450px;
+	display:block;
+	
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #FFFFFF;
+	color:white;
+	margin-bottom:90px;
+	
+}
+
+
+.sousblockinter2{
+	
+	width:600px;
+	margin:0 auto;
+	padding-top:90px;
+	padding-bottom:90px;
+	font-family: 'Raleway' , sans-serif;
+	text-align:justify;
+	color:white;
+
+}
+
+
+
+
+.blockinter2{
+background-color:#474747;	
+background-image:url(img/patterngris.png);	
+}
+
+
+
+
+
+
+
+.intersoustitre{
+	text-align:center;
+font-family: 'Pacifico', cursive;
+font-size:1.7em;
+
+}
+
+
+
+.celluletxt{
+margin-top:90px;	
+	
+	
+}
+
+.celluletxt3{
+margin-top:90px;
+text-align:center;	
+	
+	
+}
+
+
+
+
+.intertitre3{
+	
+	text-align:center;
+	margin:0 auto;
+	width:600px;
+	display:block;
+	
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #000000;
+	color:black;
+	margin-bottom:90px;
+	
+}
+
+
+.sousblockinter3{
+	
+	width:600px;
+	margin:0 auto;
+	padding-top:90px;
+	padding-bottom:90px;
+	font-family: 'Raleway' , sans-serif;
+	text-align:justify;
+	color:black;
+
+}
+
+
+
+.celluletxt3{
+margin-top:90px;
+text-align:center;	
+margin-bottom:50px;
+	
+}
+
+
+#chapeau{
+	
+margin-top:60px;	
+	
+}
+
+#chapeau p{
+	
+margin-top:10px;	
+	
+}
+
+
+.sousblockinter3 p{
+	
+margin-bottom:10px;
+}
+
+
+
+
+#bandeau{
+	
+	width:100%;
+	height:70px;
+	background-color:#191919;
+	margin-bottom:45px;
+	color:white;
+	font-family: 'Merienda One', cursive;
+	font-size:1.9em;
+	text-align:center;
+	line-height:70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.blockinter4{
+background-color:#474747;
+padding-bottom:90px;	
+	background-image:url(img/patterngris.png);	
+}
+
+
+.intertitre4{
+	
+	text-align:center;
+	margin:0 auto;
+	width:450px;
+	display:block;
+	
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #FFFFFF;
+	color:white;
+	margin-bottom:90px;
+	
+}
+
+
+
+
+.sousblockinter4{
+	
+	width:600px;
+	margin:0 auto;
+	padding-top:90px;
+	padding-bottom:90px;
+	font-family: 'Raleway' , sans-serif;
+	text-align:justify;
+	color:white;
+
+}
+
+
+
+.celluletxt4{
+margin-top:90px;
+
+	
+	
+}
+
+
+
+.celluleinter{
+margin-top:30px;
+font-family: 'Raleway' , sans-serif;
+color:white;
+display:block;
+float:left;
+width:300px;
+height:250px;
+background-color:#FFFFFF;	
+margin-left:19px;
+border-radius:7px;
+border:solid 4px #FFFFFF;	
+box-shadow: 0px 0px 8px black;
+}
+
+
+
+#bandeaucelluleinter p{
+margin-top:20px;	
+margin-bottom:20px;
+margin-left:20px;
+margin-right:20px;
+text-align:justify;
+color:black;
+text-align:center;
+line-height:1px;
+
+}
+	
+
+
+
+.clear{
+	
+	clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.intertitre5{
+	
+	text-align:center;
+	margin:0 auto;
+	width:600px;
+	display:block;
+	margin-top:90px;
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #000000;
+	color:black;
+	margin-bottom:90px;
+	
+}
+
+
+
+.sousblockinter5{
+	
+	width:600px;
+	margin:0 auto;
+	
+	padding-bottom:40px;
+	font-family: 'Raleway' , sans-serif;
+	text-align:justify;
+	color:black;
+
+}
+
+
+
+
+.celluletxt5{
+margin-top:50px;
+margin-bottom:70px;
+
+	
+	
+}
+
+
+
+.celluletxt5center{
+text-align:center;	
+}
+
+.exergue2{
+font-family: 'Merienda One', cursive;
+	font-size:1.5em;
+	margin-top:30px;
+
+	
+	
+}
+
+
+.chapeauinter{
+	
+	margin-bottom:60px;
+	
+}
+
+
+#last{
+	margin:0 auto;
+	width:600px;
+	font-family: 'Raleway' , sans-serif;	
+	text-align:justify;
+	color:black;	
+	margin-bottom:90px;
+	font-size:1em;
+	
+}
+
+#last p{
+	
+margin-top:10px;	
+	
+}
+
+
+
+
+#blockinter6{
+background-color:#474747;
+padding-top:90px;
+
+background-image:url(img/patterngris.png);	
+}
+
+
+
+
+.intertitre6{
+	
+	text-align:center;
+	margin:0 auto;
+	width:600px;
+	display:block;
+	margin-bottom:70px;
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #FFFFFF;
+	color:white;
+	
+	
+}
+
+.intertitre6 p{
+font-family: 'Pacifico', cursive;	
+	
+	
+}
+
+
+
+
+.celluletxt2{
+	font-family: 'Pacifico', cursive;
+	font-size:2.1em;
+	text-align:center;
+	margin-bottom:20px;
+	color:white;
+	margin-top:90px;
+
+}
+
+
+
+
+.moualer2{
+display:none;
+width:100%;
+height:100%;
+position:absolute;
+top:6000px;
+left:0;
+background-color:rgba(0,0,0,0.8);
+z-index:9999;
+}
+
+
+
+
+/* cette fonction declenche l'affichage de l'image au click (.moualer)*/
+.moualer2:target{
+display:table;
+
+
+}
+
+
+
+/* Centre l'aimge apres le click */
+
+.moualer2 a{
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cellulevideo{
+	display:block;
+	margin:0 auto;
+	
+	width:900px;
+	height:300px;
+	border:solid 4px #FFFFFF;
+	-moz-box-shadow: inset 0px 0px 9px 2px #656565;
+	-webkit-box-shadow: inset 0px 0px 9px 2px #656565;
+	-o-box-shadow: inset 0px 0px 9px 2px #656565;
+	box-shadow: inset 0px 0px 9px 2px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=9);
+	border-radius:7px;	
+}
+
+
+.celluleorgues{
+margin-top:30px;
+font-family: 'Raleway' , sans-serif;
+color:white;
+display:block;
+float:left;
+width:300px;
+height:250px;
+background-color:#929292;	
+margin-left:21px;
+border:solid 3px #FFFFFF;
+box-shadow: 0px 0px 8px black;
+border-radius:7px;
+}
+
+
+
+.exergue3{
+	font-family: 'Merienda One', cursive;
+	font-size:1.5em;
+	margin-top:30px;
+	margin-bottom:40px;
+	
+	
+}
+
+.exergue4{
+font-family: 'Raleway' , sans-serif;
+	font-size:1.2em;
+	margin-top:80px;
+	margin-bottom:40px;
+	font-weight:600;
+	
+	
+}
+
+.exergue4 p{
+margin-top:10px;
+	
+	
+}
+
+#txtanim2{
+	
+color:white;	
+font-family: 'Raleway' , sans-serif;
+width:600px;	
+margin:0 auto;	
+
+}
+
+
+#txtanim2 p{
+	
+margin-bottom:10px;
+}
+
+
+.soustitreanim2{
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:1.4em;
+	margin-top:70px;
+	
+	
+}
+
+
+.soustitreanim2 b{
+
+	font-size:1.2em;
+	
+	
+	
+}
+
+
+
+
+#bandeaucelluleorgue p{
+	
+margin-bottom:20px;
+margin-left:20px;
+margin-right:20px;
+text-align:justify;
+
+	
+	
+}
+
+
+
+#bandeaucelluleorgue{
+	
+	
+}
+
+
+
+#videos{
+	
+background-image:url(img/patterngris2.png);
+padding-bottom:90px;
+margin-top:90px;
+padding-top:1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

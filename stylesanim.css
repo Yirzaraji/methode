@@ -1,0 +1,346 @@
+#animintro{
+	padding-top:90px;
+	width:100%;
+	padding-bottom:90px;
+	background-color:#474747;
+	background-image:url(img/musicpattern.png);
+	
+	
+	
+}
+
+.animtitre{
+	margin-top:90px;
+	margin:0 auto;
+	width:520px;
+	display:block;
+	padding-left:37px;
+	
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #FFFFFF;
+	color:white;
+	margin-bottom:40px;
+	
+}
+
+
+#animtxt{
+	
+	width:600px;
+	color:white;
+	font-family: 'Raleway' , sans-serif;
+	
+	display:block;
+	margin:0 auto;
+	
+
+}
+
+#animtxt p{
+	font-size:1.3em;
+	margin-bottom:50px;
+	font-family: 'Merienda One', cursive;
+	
+	
+}
+
+.animsoustitre{
+	text-align:center;
+font-family: 'Pacifico', cursive;
+font-size:1.7em;
+
+}
+
+
+
+
+.celluletxt{
+	width:440px;
+	margin-bottom:10px;
+	font-family: 'Pacifico', cursive;
+	color:black;
+	font-size:1.7em;
+	text-align:center;
+	margin-top:90px;
+
+	
+}
+
+
+.celluletxt2{
+	width:440px;
+	margin-bottom:10px;
+	font-family: 'Pacifico', cursive;
+	color:black;
+	font-size:1.7em;
+	text-align:center;
+	margin-top:90px;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+.moualer{
+display:none;
+width:100%;
+height:100%;
+position:absolute;
+top:709px;
+left:0;
+background-color:rgba(0,0,0,0.8);
+z-index:9999;
+}
+
+
+
+/* cette fonction declenche l'affichage de l'image au click (.moualer)*/
+.moualer:target{
+display:table;
+
+
+}
+
+
+
+/* Centre l'aimge apres le click */
+
+.moualer a{
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.moualer2{
+display:none;
+width:100%;
+height:100%;
+position:absolute;
+top:1000px;
+left:0;
+background-color:rgba(0,0,0,0.8);
+z-index:9999;
+}
+
+
+
+
+/* cette fonction declenche l'affichage de l'image au click (.moualer)*/
+.moualer2:target{
+display:table;
+
+
+}
+
+
+
+/* Centre l'aimge apres le click */
+
+.moualer2 a{
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+.moualer3{
+display:none;
+width:100%;
+height:100%;
+position:absolute;
+top:1300px;
+left:0;
+background-color:rgba(0,0,0,0.8);
+z-index:9999;
+}
+
+
+
+
+/* cette fonction declenche l'affichage de l'image au click (.moualer)*/
+.moualer3:target{
+display:table;
+
+
+}
+
+
+
+/* Centre l'aimge apres le click */
+
+.moualer3 a{
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+
+
+
+.moualer4{
+display:none;
+width:100%;
+height:100%;
+position:absolute;
+top:1650px;
+left:0;
+background-color:rgba(0,0,0,0.8);
+z-index:9999;
+}
+
+
+
+
+/* cette fonction declenche l'affichage de l'image au click (.moualer)*/
+.moualer4:target{
+display:table;
+
+
+}
+
+
+
+/* Centre l'aimge apres le click */
+
+.moualer4 a{
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.animimg1{
+	
+	float:left;
+	margin:25px;
+	
+	
+}
+
+
+
+.animimg1 img{
+	
+	border: 5px solid #FFFFFF;
+	-moz-box-shadow: 0px 0px 10px 2px #656565;
+	-webkit-box-shadow: 0px 0px 10px 2px #656565;
+	-o-box-shadow: 0px 0px 10px 2px #656565;
+	box-shadow: 0px 0px 10px 2px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=10);	
+	
+}
+
+
+.animimg2 img{
+	border: 5px solid #FFFFFF;
+	-moz-box-shadow: 0px 0px 10px 2px #656565;
+	-webkit-box-shadow: 0px 0px 10px 2px #656565;
+	-o-box-shadow: 0px 0px 10px 2px #656565;
+	box-shadow: 0px 0px 10px 2px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=10);
+	
+}
+
+
+
+.clear{
+	
+	clear:both;
+}
+
+
+#ficheanim{
+	padding-top:90px;
+	padding-bottom:1px;
+	width:100%;
+	
+	background-color:#474747;
+	margin-top:90px;
+	background-image:url(img/square.png);
+	
+}
+
+.animtitre2{
+	margin-top:90px;
+	margin:0 auto;
+	width:390px;
+	display:block;
+	padding-left:37px;
+	font-family: 'Raleway' , sans-serif;
+	font-size:2.5em;
+	border:2px solid #FFFFFF;
+	color:white;
+	margin-bottom:40px;
+	
+}
+
+.fichetxt{
+color:white;
+width:500px;
+margin:0 auto;	
+font-family: 'Raleway' , sans-serif;
+text-align:center;
+
+}
+
+
+.fichetxt p{
+	margin-bottom:10px;
+}
+
+
+.animsoustitre2{
+	text-align:center;
+font-family: 'Pacifico', cursive;
+font-size:1.7em;
+margin-bottom:30px;	
+}
+
+
+
+.ficheblock{
+	
+	margin-bottom:90px;
+	
+}
